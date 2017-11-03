@@ -3,6 +3,6 @@ deploy:
   provider: azure_web_apps
   site: mh-das-boot-travis
   username: mustaq
-  password: Pass@word011
+  password: "Pass@word011"
   skip_cleanup: true
   verbose: true
