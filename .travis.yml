@@ -1,6 +1,6 @@
 language: java
 deploy:
   provider: azure_web_apps
-  site: mh-das-boot-travis.azurewebsites.net
+  site: mh-das-boot-travis
   skip_cleanup: true
   verbose: true
