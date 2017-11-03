@@ -1,4 +1,4 @@
 language: java
 deploy:
   provider: azure_web_apps
-  site: mh-das-boot-travis
+  site: mh-das-boot-travis.azurewebsites.net
